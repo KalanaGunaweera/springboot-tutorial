@@ -1,0 +1,24 @@
+{
+		"departmentId": 1,
+		"departmentName": "CE",
+		"departmentAddress": "Matara_SriLanka",
+		"departmentCode": "CS-008"
+	},
+	{
+		"departmentId": 2,
+		"departmentName": "IT",
+		"departmentAddress": "Colombo_SriLanka",
+		"departmentCode": "IT-003"
+	},
+	{
+		"departmentId": 3,
+		"departmentName": "SE",
+		"departmentAddress": "Ampara_SriLanka",
+		"departmentCode": "SE-053"
+	},
+	{
+		"departmentId": 4,
+		"departmentName": "IT",
+		"departmentAddress": "Galle_SriLanka",
+		"departmentCode": "IT-043"
+	}

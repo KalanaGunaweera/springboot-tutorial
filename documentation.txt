@@ -1,0 +1,15 @@
+🗒 Spring Boot Github: https://github.com/shabbirdwd53/Springboot-Tutorial
+🗒 Spring Data JPA Github: https://github.com/shabbirdwd53/Spring-Data-JPA-Tutorial
+🗒 Spring Security Code: https://github.com/shabbirdwd53/spring-security-tutorial
+
+JPA Query Documentation: https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.query-methods
+IntelliJ Idea Community Edition: https://www.jetbrains.com/idea/download/#section=windows
+
+Eugen Complete Registration Flow Tutorial:
+https://www.baeldung.com/registration-with-spring-mvc-and-spring-security
+
+OAuth:
+https://developer.okta.com/blog/2017/06/21/what-the-heck-is-oauth
+
+OAuth Playground:
+https://www.oauth.com/playground/
